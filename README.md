@@ -32,6 +32,11 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+Here's a walkthrough of my app:
+<img src='https://recordit.co/MNPRFTfy1c.gif' title='Video Walkthrough' width='' alt='Tip Calculator App Video Walkthrough' />
+
+GIF created with [Recordit]
+
 ## Notes
 
 Describe any challenges encountered while building the app.
@@ -55,4 +60,3 @@ Describe any challenges encountered while building the app.
 
 
 
-/Users/marian/Desktop/Prework Tip Calculator/Screen Recording Tip Calc.gif
